@@ -1,0 +1,9 @@
+{
+	"name": "cam2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9d33ef9-49df-4f4a-8d9d-1aadf2d89c65",
+		"tenantId": "9b415834-803a-4da0-afdc-fe6b1d52d649"
+	}
+}
